@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @ndvorkina
+- 👋 Hi, I’m Natalia Dvorkina
 - 👀 I’m interested in Data Science in field of GIS, GNSS, Chemistry.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on .Net platform, Python.
+- 🌱 I’m currently interested in the application of AI GIS.
+- 🌱 I have a historical website that I made on Angular - worldhist.org
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lv.ndvorkina@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
